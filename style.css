@@ -1,0 +1,36 @@
+body {
+    background: url(https://cutewallpaper.org/21/cool-pc-backgrounds-1920x1080/Subnautica-Below-Zero-Wallpapers-Backgrounds.jpg);
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+}
+
+h2 {
+    text-align: center;
+    color: royalblue;
+}
+
+p {
+    color: yellowgreen;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    border: 2px solid royalblue;
+    border-radius: 10px;
+    position: relative;
+    box-shadow: 0 5px 0 0 royalblue;
+    color: yellowgreen;
+}
+
+img {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: -30px -30px -20px -45px;
+}
