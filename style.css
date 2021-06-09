@@ -13,9 +13,12 @@ h2 {
 }
 
 p {
-    color: yellowgreen;
-
+    color: #00FF00;
+    text-align: center;
+    font-size: 120%;
+    text-align: center;
 }
+
 
 a {
     text-decoration: none;
