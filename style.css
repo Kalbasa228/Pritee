@@ -41,3 +41,7 @@ img {
 table{
     text-align: center;
 }
+
+table:hover {
+    font-size: 45px;
+}
