@@ -43,5 +43,11 @@ table{
 }
 
 table:hover {
-    font-size: 45px;
+    opacity: 1;
+    border: 6px solid navy;
+    width: 170px;
+    height: 220px;
+    transition: 0.5s ease-out;
+    padding: 5px;
 }
+
