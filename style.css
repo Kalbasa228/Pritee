@@ -45,8 +45,8 @@ table{
 table:hover {
     opacity: 1;
     border: 6px solid navy;
-    width: 8000px;
-    height: 600px;
+    width: 800px;
+    height: 200px;
     transition: 0.5s ease-out;
     padding: 5px;
 }
