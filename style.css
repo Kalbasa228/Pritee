@@ -31,9 +31,8 @@ a {
     color: yellowgreen;
 }
 
-a:hover {
+img:hover {
     opacity: 1;
-    border: 6px solid navy;
     width: 600px;
     height: 500px;
     transition: 0.5s ease-out;
