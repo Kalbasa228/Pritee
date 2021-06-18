@@ -31,7 +31,7 @@ a {
     color: yellowgreen;
 }
 
-img:hover {
+.popit:hover {
     opacity: 1;
     width: 600px;
     height: 500px;
@@ -53,7 +53,7 @@ table{
 table:hover {
     opacity: 1;
     border: 6px solid navy;
-    width: 1600px;
+    width: 1800px;
     height: 200px;
     transition: 0.5s ease-out;
     padding: 5px;
